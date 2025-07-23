@@ -1,0 +1,7 @@
+langchain
+langgraph
+langchain-core
+langchain-ollama
+typing-extensions>=4.5.0
+pydantic>=2.0.0
+json
